@@ -1,3 +1,4 @@
 # try_git
 
-Test
+Testint
+Nu med ædnring
